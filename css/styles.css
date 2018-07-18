@@ -5,3 +5,10 @@
 .dogs p {
   background-color: steelblue;
 }
+.cat p a {
+  font-weight: bold;
+
+}
+.dog p a {
+  font-style: italic;
+}
